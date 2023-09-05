@@ -1,12 +1,14 @@
-## Hi there 👋
+# Welcome we are Owozon! 👋
 
-<!--
+We are happy that you are here little by little our project will be finished and little by little we will go with more
 
-**Here are some ideas to get you started:**
+Our current project is about a content streaming service about the furry community
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🚀 About Us
+We are a small company of programmers, our current project is Owozon, a web platform that will bring together the furry community where certain people can upload their audiovisual content to be played within our web application.
+
+
+## 🛠 Skills
+We are working with Typescript, Javascript, TailwindCss, NodeJs, NextJs y other technologies
+
