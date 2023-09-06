@@ -10,7 +10,7 @@ We are a small company of programmers, our current project is Owozon, a web plat
 
 
 ## 🛠 Skills
-We are working with Typescript, Javascript, TailwindCss, NodeJs, NextJs y other technologies
+We are working with Typescript, Javascript, TailwindCss, NodeJs, NextJs and other technologies
 
 ## Our Work
 - 🔭 We are currently working on [Owozon](owozon.vercel.app)
