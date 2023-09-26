@@ -1,4 +1,4 @@
-# Welcome we are Owozon! 👋
+# Welcome, we are Ocelot Team! 👋
 
 We are happy that you are here little by little our project will be finished and little by little we will go with more
 
